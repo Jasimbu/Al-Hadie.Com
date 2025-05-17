@@ -1,0 +1,96 @@
+<!DOCTYPE html><html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Al-Hadie Al-Islamiyyah</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #ffffff;
+      color: #222;
+    }
+    header {
+      background: linear-gradient(to right, #007f5f, #ffdd00);
+      color: #fff;
+      padding: 1rem 2rem;
+      text-align: center;
+    }
+    nav {
+      background-color: #f1f1f1;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 1rem;
+      text-decoration: none;
+      color: #007f5f;
+      font-weight: bold;
+    }
+    main {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #007f5f;
+    }
+    footer {
+      background-color: #ffdd00;
+      color: #000;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 3rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Al-Hadie Al-Islamiyyah</h1>
+    <p>Sejarah dan Perjalanan Dakwah</p>
+  </header>
+  <nav>
+    <a href="#awal">Awal Berdiri</a>
+    <a href="#tokoh">Tokoh Sentral</a>
+    <a href="#karya">Kitab & Karya</a>
+    <a href="#struktur">Struktur Organisasi</a>
+  </nav>
+  <main>
+    <section id="awal">
+      <h2>Awal Berdiri</h2>
+      <p>Al-Hadie Al-Islamiyyah bermula dari hijrah Syaikh Abdul Hadie Hilmie dari Doraemonlandia ke Wap Arabian, mendirikan dakwah Salafiyyah di tengah masyarakat...</p>
+    </section><section id="tokoh">
+  <h2>Tokoh Sentral</h2>
+  <p>Ustadz Anieng Kanur, Ustadz Anieng Shalih Abu Faisal, Ustadz Oemar Abdoel Bakrie, hingga Ustadz Manaf Hilmie Al-Jabal adalah bagian dari sejarah panjang organisasi ini...</p>
+</section>
+
+<section id="karya">
+  <h2>Kitab & Karya</h2>
+  <ul>
+    <li>Manhaj Salaf, Manhaj Shahih?</li>
+    <li>Kashaf Alfiqhul Bathil</li>
+    <li>Fiqih Rumah Tangga Syar'i</li>
+    <li>Ad-Dakwah Syaikhul Islam Abdul Hadie Hilmie</li>
+    <li>Fiqh Mu'tabar (21 jilid)</li>
+    <li>Ringkasan Fiqh Mu'tabar (12 jilid)</li>
+  </ul>
+</section>
+
+<section id="struktur">
+  <h2>Struktur Organisasi</h2>
+  <p><strong>Otonom:</strong> Muslimat Al-Hadie, Gerakan Pemuda Muhajirin, Laskar Al-Wahhab, LazizDie, Al-Hadie Rescue, Himasie, Lembaga Pendidikan Ar-Rafif.</p>
+  <p><strong>Majelis Dewan:</strong>
+    <ul>
+      <li>Majelis Dewan Fatwa Wal Hisbah</li>
+      <li>Majelis Dewan Syuro</li>
+      <li>Majelis Dewan Maktabah</li>
+    </ul>
+  </p>
+</section>
+
+  </main>
+  <footer>
+    <p>&copy; 2055 Al-Hadie Al-Islamiyyah</p>
+  </footer>
+</body>
+</html>
